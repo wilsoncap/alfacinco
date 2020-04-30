@@ -1,0 +1,79 @@
+[29-Apr-2017 04:45:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alfacincopyv/public_html/cont.php:5) in /home/alfacincopyv/public_html/cont.php on line 45
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/menu.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 89
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/menu.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 89
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(): Failed opening 'inc_pg/menu.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 89
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/slider.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 92
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/slider.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 92
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(): Failed opening 'inc_pg/slider.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 92
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/imagenp.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 95
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/imagenp.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 95
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(): Failed opening 'inc_pg/imagenp.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 95
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/plagas.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 103
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/plagas.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 103
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(): Failed opening 'inc_pg/plagas.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 103
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/servicios.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 110
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/servicios.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 110
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(): Failed opening 'inc_pg/servicios.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 110
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/testimonio.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 122
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/testimonio.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 122
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(): Failed opening 'inc_pg/testimonio.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 122
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/galeriaF.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 126
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/galeriaF.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 126
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(): Failed opening 'inc_pg/galeriaF.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 126
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/galeriaV.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 227
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/galeriaV.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 227
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(): Failed opening 'inc_pg/galeriaV.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 227
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/blog.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 237
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/blog.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 237
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(): Failed opening 'inc_pg/blog.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 237
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/contacto.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 242
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/contacto.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 242
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(): Failed opening 'inc_pg/contacto.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 242
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/footer.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 248
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(inc_pg/footer.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 248
+[30-Apr-2017 03:33:21 UTC] PHP Warning:  include(): Failed opening 'inc_pg/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 248
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/menu.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 89
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/menu.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 89
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(): Failed opening 'inc_pg/menu.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 89
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/slider.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 92
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/slider.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 92
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(): Failed opening 'inc_pg/slider.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 92
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/imagenp.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 95
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/imagenp.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 95
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(): Failed opening 'inc_pg/imagenp.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 95
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/plagas.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 103
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/plagas.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 103
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(): Failed opening 'inc_pg/plagas.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 103
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/servicios.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 110
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/servicios.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 110
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(): Failed opening 'inc_pg/servicios.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 110
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/testimonio.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 122
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/testimonio.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 122
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(): Failed opening 'inc_pg/testimonio.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 122
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/galeriaF.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 126
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/galeriaF.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 126
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(): Failed opening 'inc_pg/galeriaF.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 126
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/galeriaV.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 227
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/galeriaV.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 227
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(): Failed opening 'inc_pg/galeriaV.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 227
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/blog.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 237
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/blog.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 237
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(): Failed opening 'inc_pg/blog.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 237
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/contacto.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 242
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/contacto.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 242
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(): Failed opening 'inc_pg/contacto.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 242
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/footer.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 248
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(inc_pg/footer.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/index.php on line 248
+[30-Apr-2017 03:33:58 UTC] PHP Warning:  include(): Failed opening 'inc_pg/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/index.php on line 248
+[30-Apr-2017 04:02:10 UTC] PHP Warning:  include(contador.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/indexx.php on line 4
+[30-Apr-2017 04:02:10 UTC] PHP Warning:  include(contador.php): failed to open stream: No such file or directory in /home/alfacincopyv/public_html/indexx.php on line 4
+[30-Apr-2017 04:02:10 UTC] PHP Warning:  include(): Failed opening 'contador.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/alfacincopyv/public_html/indexx.php on line 4
+[01-May-2017 03:54:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alfacincopyv/public_html/cont.php:5) in /home/alfacincopyv/public_html/cont.php on line 45
+[01-May-2017 04:00:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alfacincopyv/public_html/cont.php:5) in /home/alfacincopyv/public_html/cont.php on line 45
+[01-May-2017 04:12:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/alfacincopyv/public_html/cont.php on line 88
+[01-May-2017 04:14:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/alfacincopyv/public_html/cont.php on line 88
+[01-May-2017 04:37:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alfacincopyv/public_html/cont.php:5) in /home/alfacincopyv/public_html/cont.php on line 61
+[01-May-2017 04:45:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alfacincopyv/public_html/cont.php:5) in /home/alfacincopyv/public_html/cont.php on line 61
+[02-May-2017 00:46:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alfacincopyv/public_html/cont.php:5) in /home/alfacincopyv/public_html/cont.php on line 61
+[03-Jun-2017 03:44:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alfacincopyv/public_html/cont.php:5) in /home/alfacincopyv/public_html/cont.php on line 61
+[11-Oct-2017 06:50:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alfacincopyv/public_html/cont.php:5) in /home/alfacincopyv/public_html/cont.php on line 61
